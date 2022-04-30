@@ -3,7 +3,6 @@ Quick and dirty Python script for searching for assets in Unreal packages
 
 # Requirements
 1. Python 3.9
-2. `virtualenv` installed.
 
 # Installation
 1. Run the `install.bat` file. 
