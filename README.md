@@ -2,7 +2,8 @@
 Quick and dirty Python script for searching for assets in Unreal packages
 
 # Requirements
-1. Python 3.9
+1. [Python 3.9+](https://www.python.org/downloads/)
+2. [umodel](https://www.gildor.org/en/projects/umodel#files)
 
 # Installation
 1. Run the `install.bat` file. 
