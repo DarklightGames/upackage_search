@@ -1,1 +1,1 @@
-venv\Scripts\activate & python main.py
+venv\Scripts\activate && python --version && python main.py
